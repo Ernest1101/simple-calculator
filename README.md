@@ -3,7 +3,6 @@
 Простой калькулятор с графическим интерфейсом на **Python** и **Tkinter**.  
 Идеален для обучения, портфолио или повседневных вычислений!
 
-![GUI Calculator Screenshot](screenshot.png)
 
 ## 💡 Возможности
 - Сложение (`+`), вычитание (`-`), умножение (`×`), деление (`÷`)
@@ -18,3 +17,4 @@
    ```bash
    git clone https://github.com/Ernest1101/simple-calculator.git
    cd simple-calculator
+<img width="322" height="446" alt="Screenshot_20251003_122256" src="https://github.com/user-attachments/assets/2349adb0-73fd-471b-adab-efbdbd65fcb6" />
